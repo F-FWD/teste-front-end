@@ -1,0 +1,1 @@
+O layout é feito apenascom HTML e CSS puros,logo não são necessarios artificiuos para se abrir/compilar ou testar, bastaclicar no arquivo (index.html)abrind-o em seu navegador.
